@@ -1,4 +1,4 @@
-# Supermercado
+# Polimorfismo
 ## Digital House - Turma 01 - IOS (Swift)
 
 Exercícios para o curso da Digital House IOS usando Swift promovido pelo Programa Santander Coders.
